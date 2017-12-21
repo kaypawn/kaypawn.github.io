@@ -11,7 +11,7 @@ url: "http://kaypawn.top"
 # Comment
 comment:
     disqus: leopard
-    uyan: 2152204  # 有言id,登录有言官网申请
+    #uyan: 2152204  # 有言id,登录有言官网申请
 
 # Social
 social:
