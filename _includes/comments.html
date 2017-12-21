@@ -1,10 +1,13 @@
 <section class="post-comments">
 
   {% if site.comment.uyan %}
+    <!--<div id="uyan_frame"></div>-->
+
+    <!--<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid="+'{{ site.comment.uyan }}'></script>-->
+    <!-- UY BEGIN -->
     <div id="uyan_frame"></div>
-
-    <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid="+'{{ site.comment.uyan }}'></script>
-
+        <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2152204"></script>
+    <!-- UY END -->
   {% elsif site.comment.disqus %}
     <div id="disqus_thread"></div>
     <script>

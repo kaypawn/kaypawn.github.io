@@ -11,14 +11,14 @@ url: "http://baixin.io"
 # Comment
 comment:
     disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    uyan: 2152204  # 有言id,登录有言官网申请
 
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
+    github: kaypawn
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: it_wangkai@yeah.net
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
